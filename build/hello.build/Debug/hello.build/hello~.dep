@@ -1,0 +1,10 @@
+0c22182b846026d44ee8ef7abfd8dec6 0ae4ff769cd18b1235d8e68573bff40a ffffffffffffffffffffffffffffffff 102 /Users/williamcage/Documents/hello/build/Debug/hello.app
+85c6208745c329f63de1a331708e4a8e 68e1f56d2af3ffcaff5c40c6cf355e92 ffffffffffffffffffffffffffffffff 15888 /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/MacOS/hello
+000000004d50b370000000000002cea2 fe4ab9be66899e0c2cd860f6c665de1d ffffffffffffffffffffffffffffffff 34607 /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004d50abc1000000000000002d 1f4f747f8dd97655a08d6c7bc604da48 ffffffffffffffffffffffffffffffff 92 /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 1b4e29952464fda2032e98707cd60fea ffffffffffffffffffffffffffffffff 8 /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/PkgInfo
+00000000000000000000000000000000 1b4e29952464fda2032e98707cd60fea ffffffffffffffffffffffffffffffff 880 /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Info.plist
+1ec9380ee9b845f6d8a84d71ee11fe77 a87d4492094606d6902d6d207461a542 ffffffffffffffffffffffffffffffff 16484 /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloView.o
+1ec9380ee9ba0f06d8a84d71ee11fdb2 077ba170a23b3248cc20083b47921f0d ffffffffffffffffffffffffffffffff 21040 /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloAppDelegate.o
+1ec9380ea4eaa4c7d8a84d71ee11fd24 3409fd6b4bfcda03b9448b5bad6cab2e ffffffffffffffffffffffffffffffff 4984 /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/main.o
+000000000d9401a90000000000000168 1ec9380ea4eaa4c7d8a84d71ee11fd42 ffffffffffffffffffffffffffffffff 54306576 /var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch.gch

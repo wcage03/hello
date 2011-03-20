@@ -1,0 +1,226 @@
+Thello
+v7
+r0
+t318972643.816585
+cCheck dependencies
+cProcessInfoPlistFile /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Info.plist hello-Info.plist
+cCopyStringsFile /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/williamcage/Documents/hello/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch.gch hello_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/hello.build/Debug/hello.build/Objects-normal/x86_64/main.o /Users/williamcage/Documents/hello/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloAppDelegate.o /Users/williamcage/Documents/hello/helloAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloView.o /Users/williamcage/Documents/hello/helloView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/MacOS/hello normal x86_64
+cTouch /Users/williamcage/Documents/hello/build/Debug/hello.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D005D57000000000000A5E0
+t1291869527
+s42464
+
+N/Users/williamcage/Documents/hello/English.lproj/InfoPlist.strings
+c000000004D50ABC1000000000000002D
+t1297132481
+s45
+
+N/Users/williamcage/Documents/hello/English.lproj/MainMenu.xib
+c000000004D52EB61000000000002CFF3
+t1297279841
+s184307
+
+N/Users/williamcage/Documents/hello/build/Debug/hello.app
+t1297279843
+s102
+
+N/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Info.plist
+t1297278816
+s880
+
+N/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/MacOS/hello
+t1297279499
+s15888
+
+N/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/PkgInfo
+t1297278816
+s8
+
+N/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1297278816
+s92
+
+N/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/MainMenu.nib
+t1297279843
+s34842
+
+N/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/hello.LinkFileList
+c000000004D52E760000000000000013D
+t1297278816
+s317
+
+N/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloAppDelegate.o
+t1297278820
+s21040
+
+N/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloView.o
+t1297279499
+s16444
+
+N/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/main.o
+t1297278820
+s4984
+
+N/Users/williamcage/Documents/hello/helloAppDelegate.h
+c000000004D50ABC10000000000000125
+t1297132481
+s293
+i<Cocoa/Cocoa.h>
+
+N/Users/williamcage/Documents/hello/helloAppDelegate.m
+c000000004D50ABC10000000000000158
+t1297132481
+s344
+i"helloAppDelegate.h"
+
+N/Users/williamcage/Documents/hello/helloView.h
+c000000004D50ADF700000000000000BA
+t1297133047
+s186
+i<Cocoa/Cocoa.h>
+
+N/Users/williamcage/Documents/hello/helloView.m
+c000000004D52EA0B00000000000002F3
+t1297279499
+s755
+i"helloView.h"
+
+N/Users/williamcage/Documents/hello/hello_Prefix.pch
+c000000004D50ABC1000000000000008D
+t1297132481
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/williamcage/Documents/hello/main.m
+c000000004D50ABC100000000000000EB
+t1297132481
+s235
+i<Cocoa/Cocoa.h>
+
+N/var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch.gch
+t1297278820
+s54306576
+
+Nhello-Info.plist
+c000000004D50ABC100000000000003EA
+t1297132481
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318972643#318972643#0(0"0(0#1#0"8627084512#0"0#
+
+CCompileC build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloAppDelegate.o /Users/williamcage/Documents/hello/helloAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318971620.316725
+e318971620.506387
+r1
+xCompileC
+xbuild/hello.build/Debug/hello.build/Objects-normal/x86_64/helloAppDelegate.o
+x/Users/williamcage/Documents/hello/helloAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/williamcage/Documents/hello/helloAppDelegate.m318971620#318971620#0(0"0(0#0#53"/Users/williamcage/Documents/hello/helloAppDelegate.m8613436032#1390"    cd /Users/williamcage/Documents/hello    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-generated-files.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-own-target-headers.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-all-target-headers.hmap -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-project-headers.hmap -F/Users/williamcage/Documents/hello/build/Debug -I/Users/williamcage/Documents/hello/build/Debug/include -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources/x86_64 -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources -include /var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch -c /Users/williamcage/Documents/hello/helloAppDelegate.m -o /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloAppDelegate.o0#
+
+CCompileC build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloView.o /Users/williamcage/Documents/hello/helloView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318972299.471523
+e318972299.684481
+r1
+xCompileC
+xbuild/hello.build/Debug/hello.build/Objects-normal/x86_64/helloView.o
+x/Users/williamcage/Documents/hello/helloView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/williamcage/Documents/hello/helloView.m318972299#318972299#0(0"0(0#0#46"/Users/williamcage/Documents/hello/helloView.m8625024128#1376"    cd /Users/williamcage/Documents/hello    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-generated-files.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-own-target-headers.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-all-target-headers.hmap -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-project-headers.hmap -F/Users/williamcage/Documents/hello/build/Debug -I/Users/williamcage/Documents/hello/build/Debug/include -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources/x86_64 -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources -include /var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch -c /Users/williamcage/Documents/hello/helloView.m -o /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/helloView.o0#
+
+CCompileC build/hello.build/Debug/hello.build/Objects-normal/x86_64/main.o /Users/williamcage/Documents/hello/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318971620.315745
+e318971620.477067
+r1
+xCompileC
+xbuild/hello.build/Debug/hello.build/Objects-normal/x86_64/main.o
+x/Users/williamcage/Documents/hello/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/williamcage/Documents/hello/main.m318971620#318971620#0(0"0(0#0#41"/Users/williamcage/Documents/hello/main.m8627067136#1366"    cd /Users/williamcage/Documents/hello    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-generated-files.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-own-target-headers.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-all-target-headers.hmap -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-project-headers.hmap -F/Users/williamcage/Documents/hello/build/Debug -I/Users/williamcage/Documents/hello/build/Debug/include -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources/x86_64 -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources -include /var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch -c /Users/williamcage/Documents/hello/main.m -o /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/williamcage/Documents/hello/English.lproj/MainMenu.xib
+s318972643.461638
+e318972643.813324
+r1
+xCompileXIB
+x/Users/williamcage/Documents/hello/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib318972643#318972643#0(0"0(0#0#61"/Users/williamcage/Documents/hello/English.lproj/MainMenu.xib8620673376#350"    cd /Users/williamcage/Documents/hello    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/MainMenu.nib /Users/williamcage/Documents/hello/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s318971616.826632
+e318971616.906638
+r1
+xCopyStringsFile
+x/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings318971616#318971616#0(0"0(0#0#66"/Users/williamcage/Documents/hello/English.lproj/InfoPlist.strings8626109696#355"    cd /Users/williamcage/Documents/hello    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Resources/English.lproj0#
+
+CLd /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/MacOS/hello normal x86_64
+s318972299.684577
+e318972299.735340
+r1
+xLd
+x/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/MacOS/hello
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/MacOS/hello318972299#318972299#0(0"0(0#0#0"8627034144#512"    cd /Users/williamcage/Documents/hello    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/williamcage/Documents/hello/build/Debug -F/Users/williamcage/Documents/hello/build/Debug -filelist /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/Objects-normal/x86_64/hello.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/MacOS/hello0#
+
+CProcessInfoPlistFile /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Info.plist hello-Info.plist
+s318971616.820125
+e318971616.826543
+r1
+xProcessInfoPlistFile
+x/Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Info.plist
+xhello-Info.plist
+lSLF07#2@24"Process hello-Info.plist318971616#318971616#0(0"0(0#0#51"/Users/williamcage/Documents/hello/hello-Info.plist31525614006435952#292"    cd /Users/williamcage/Documents/hello    builtin-infoPlistUtility hello-Info.plist -genpkginfo /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/williamcage/Documents/hello/build/Debug/hello.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch.gch hello_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318971617.194180
+e318971620.315540
+r1
+xProcessPCH
+x/var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch.gch
+xhello_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile hello_Prefix.pch318971617#318971620#0(0"0(0#0#51"/Users/williamcage/Documents/hello/hello_Prefix.pch8627193280#1278"    cd /Users/williamcage/Documents/hello    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-generated-files.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-own-target-headers.hmap -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-all-target-headers.hmap -iquote /Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/hello-project-headers.hmap -F/Users/williamcage/Documents/hello/build/Debug -I/Users/williamcage/Documents/hello/build/Debug/include -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources/x86_64 -I/Users/williamcage/Documents/hello/build/hello.build/Debug/hello.build/DerivedSources -c /Users/williamcage/Documents/hello/hello_Prefix.pch -o /var/folders/5V/5V6Tm5mEFBWuPFNIyjmrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/hello_Prefix-emhgkdsyninzclfgbvbquricczvu/hello_Prefix.pch.gch0#
+
+CTouch /Users/williamcage/Documents/hello/build/Debug/hello.app
+s318972643.813824
+e318972643.816557
+r1
+xTouch
+x/Users/williamcage/Documents/hello/build/Debug/hello.app
+lSLF07#2@62"Touch /Users/williamcage/Documents/hello/build/Debug/hello.app318972643#318972643#0(0"0(0#0#0"8626551232#121"    cd /Users/williamcage/Documents/hello    /usr/bin/touch -c /Users/williamcage/Documents/hello/build/Debug/hello.app0#
+
